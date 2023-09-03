@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Constants
-IMAGE_SIZE = 160
+IMAGE_SIZE = 224
 MODEL_PATH = "DenseNet121_se.h5"
 
 # Hard-coded list of class names
