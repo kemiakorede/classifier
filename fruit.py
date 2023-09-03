@@ -33,7 +33,7 @@ def preprocess_image(image: Image.Image) -> np.ndarray:
 model = load_model()
 
 # Streamlit UI code
-st.title("Fruit and Vegetable Classifier")
+st.title("Faidat Akorede (2169204) Fruit and Vegetable Image Classifier")
 st.write("""
 Upload an image of a fruit or vegetable and the model will predict its name.
 """)
