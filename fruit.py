@@ -5,7 +5,7 @@ import numpy as np
 
 # Constants
 IMAGE_SIZE = 160
-MODEL_PATH = "MobileNetV2 (1).h5"
+MODEL_PATH = "DenseNet121_se.h5"
 
 # Hard-coded list of class names
 class_names = [
