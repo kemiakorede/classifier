@@ -1,0 +1,9 @@
+requests==2.29.0
+beautifulsoup4
+streamlit
+numpy
+Pillow
+flask
+keras
+tensorflow
+typing-extensions>=4.7.1
